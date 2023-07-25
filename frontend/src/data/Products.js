@@ -1,7 +1,7 @@
 const products = [
   {
     _id: "1",
-    name: "Sandália Ballerinas Feminina  (Pink)",
+    name: "Feminina  (Pink)",
     image: "/images/6.png",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
@@ -12,7 +12,7 @@ const products = [
   },
   {
     _id: "2",
-    name: "Bota Unisex  (Blue)",
+    name: "Bota ",
     image: "/images/5.png",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
@@ -23,7 +23,7 @@ const products = [
   },
   {
     _id: "3",
-    name: "Bota Unisex-Child ELMO ",
+    name: "ELMO ",
     image: "/images/4.png",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
